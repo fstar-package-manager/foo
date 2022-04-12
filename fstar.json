@@ -2,7 +2,7 @@
     "name": "foo",
     "lib": {
 	"modules": [
-	    "Foo.Main.fst"
+	    "Foo.fst"
 	],
 	"dependencies": [
 	    "hello"
