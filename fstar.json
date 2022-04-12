@@ -1,0 +1,12 @@
+{
+    "name": "foo",
+    "lib": {
+	"modules": [
+	    "Foo.Main.fst"
+	],
+	"dependencies": [
+	    "hello"
+	],
+	"verificationOptions": {}
+    }
+}
